@@ -2,7 +2,7 @@
 I am currently pursuing a Bachelor’s degree in Computer Science at the University of Victoria, while working as a freelance programmer and indie game developer.
 
 ## Current Projects
-• Developing a 2D action game developed in Unity (combat systems, enemy AI, and tooling) <br/>
+• Developing a 2D action game developed in Unity <br/>
 • Independently studying AI chatbot integration research (LLM APIs, prompt design, system architecture)
 
 
