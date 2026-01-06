@@ -1,5 +1,5 @@
 # Hi! I'm Rex Gong:
-I am currently a 4th year Student pursuing a Bachelor’s degree in Computer Science at the University of Victoria, while working as a freelance programmer and indie game developer.
+I am currently a fourth-year Computer Science student at the University of Victoria, pursuing a Bachelor’s degree while working professionally as a freelance programmer and independent game developer.
 
 ## Current Projects
 • Developing a 2D action game developed in Unity <br/>
